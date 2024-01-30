@@ -1,0 +1,71 @@
+.banner-content{
+    text-align: center;
+    background-image: url(assets/images/banner.png);
+    box-shadow: inset 0px 0px 50px 65px rgba(10,26,35,0.7);
+}
+
+.banner-content > h1{
+    color: #3E799E;
+}
+
+.banner-content > p {
+    color: white;
+}
+
+#course-content{
+    text-align: center;
+    background-color: black;
+    color: #3E799E;
+    margin-top: auto;
+}
+
+#course-content p{
+    color: white;
+}
+
+.module{
+    border-style: outset;
+    border-color: #3E799E;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    background-color: #252525;
+    align-items: center;
+    
+}
+
+.module > span{
+    color: #3E799E;
+}
+.modules-list{
+    color: white;
+}
+
+#professional-challenges{
+    color: #3E799E;
+    background: black;
+    text-align: center;
+}
+#professional-challenges p{
+    color: white;
+    text-align: center;
+}
+
+footer .dio-logo {
+    width: 300px;
+  }
+  
+  footer a {
+    color: #33A8DB;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+
+  footer{
+    background-color: black;
+    text-align: center;
+  }
+
+  footer p{
+    color: white;
+  }
